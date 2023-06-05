@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**DRMStuff/DRMStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=drmstuff&show_icons=true">
 
-Here are some ideas to get you started:
+Hello! :wave:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :sunglasses: I'm Apocalypse
+- :iphone: https://t.me/drmstuff
+- 🍀: Aim: Provide free open source DRM scripts, give something back from the people who have scammed people to shit.
+
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=drmstuff)](https://github.com/ryo-ma/github-profile-trophy)
+
+## My skills are
+
+<img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%;"></img>
+<img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;"></img>
+<img align="center" alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="max-width:100%;"></img>
+<img align="center" alt="git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width:100%;"></img>
+<img align="center" alt="reactjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;"></img>
+<img align="center" alt="postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width:100%;"></img>
+<img align="center" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;"></img>
+
+
+
+
