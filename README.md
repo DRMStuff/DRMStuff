@@ -21,6 +21,8 @@ Hello! :wave:
 <img align="center" alt="linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="postgreesql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="max-width:100%;"></img>
-
+<img align="center" alt="bash" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="max-width:100%;"></img>
+<img align="center" alt="erlang" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" style="max-width:100%;"></img>
+<img align="center" alt="perl" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" style="max-width:100%;"></img>
 
 
